@@ -1,2 +1,3 @@
 # gitskills
-first time change on master
+first time change on master!
+sec change on dev .
